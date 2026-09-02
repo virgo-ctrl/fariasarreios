@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Página Principal / Hub Geral -->
+  <url>
+    <loc>https://fariasarreios.com.br/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Categoria: Selaria e Arreios -->
+  <url>
+    <loc>https://fariasarreios.com.br/selaria-e-arreios/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Categoria: Proteção Animal e Vaqueiro -->
+  <url>
+    <loc>https://fariasarreios.com.br/protecao-animal-e-vaqueiro/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Categoria: Chapéu Agro e Botas -->
+  <url>
+    <loc>https://fariasarreios.com.br/chapeu-agro-e-botas/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Categoria: Personalização a Laser e Bordados -->
+  <url>
+    <loc>https://fariasarreios.com.br/personalizacao-laser-e-bordados/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Categoria: Área do Lojista (Atacado B2B) -->
+  <url>
+    <loc>https://fariasarreios.com.br/atacado-lojistas/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>

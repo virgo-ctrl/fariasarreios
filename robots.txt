@@ -1,0 +1,38 @@
+# Robots.txt — Farias Arreios & Cia (Cachoeirinha-PE)
+# Otimizado para SEO tradicional, AEO (Answer Engines) e GEO (Generative Engine Optimization)
+
+User-agent: *
+Allow: /
+Disallow: /obrigado.html
+
+# Permitir explicitamente rastreadores e indexadores de Inteligência Artificial para AEO/GEO
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# LLMs Text File para motores generativos
+# https://llmstxt.org/
+# Documento estruturado em markdown para alimentar respostas de IA (Google AI Overviews, Perplexity, ChatGPT, Claude)
+
+# Sitemap Oficial
+Sitemap: https://fariasarreios.com.br/sitemap.xml
